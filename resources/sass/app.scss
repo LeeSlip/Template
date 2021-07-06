@@ -1,0 +1,26 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+h6 {
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 30px;
+    color: $cyan;
+}
+
+h5 {
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 30px;
+    color: $red;
+}
