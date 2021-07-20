@@ -50,7 +50,7 @@ services:
       - "3306:3306"
     environment:
       MYSQL_DATABASE: clone
-      MYSQL_ROOT_PASSWORD: Sadpanda1!
+      MYSQL_ROOT_PASSWORD: blahblah2
       SERVICE_TAGS: dev
       SERVICE_NAME: mysql
     volumes:
